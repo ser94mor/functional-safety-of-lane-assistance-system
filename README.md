@@ -39,7 +39,7 @@ The [Safety Plan](PDFs/01_SafetyPlan_LaneAssistance.pdf) gives an overview of ho
 It specifies what system is under consideration, the goal of the project, what steps need to be taken to ensure
 safety, the roles and personnel involved in the project, and the project timeline.
 
-The [Hazard Analysis and Risk Assessment](PDFs/02_HazardAnalysisAndRiskAssessment_LaneAssistance.pdf) makes 
+The [Hazard Analysis and Risk Assessment](PDFs/02_HazardAnalysisAndRiskAssessment_LaneAssistance.pdf) performs 
 a situational analysis, identifies hazards, classifies them according to severity and probability of occurrence
 calculates the [ASIL](https://en.wikipedia.org/wiki/Automotive_Safety_Integrity_Level), and derives safety goals.
 
