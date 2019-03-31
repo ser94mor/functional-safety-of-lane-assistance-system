@@ -40,7 +40,7 @@ It specifies what system is under consideration, the goal of the project, what s
 safety, the roles and personnel involved in the project, and the project timeline.
 
 The [Hazard Analysis and Risk Assessment](PDFs/02_HazardAnalysisAndRiskAssessment_LaneAssistance.pdf) performs 
-a situational analysis, identifies hazards, classifies them according to severity and probability of occurrence
+a situational analysis, identifies hazards, classifies them according to severity and probability of occurrence,
 calculates the [ASIL](https://en.wikipedia.org/wiki/Automotive_Safety_Integrity_Level), and derives safety goals.
 
 The purpose of the [Functional Safety Concept](PDFs/03_FunctionalSafetyConcept_LaneAssistance.pdf) 
